@@ -1,0 +1,40 @@
+
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  h1 {
+    color: #3f81e3;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 5px dotted #002a68;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  .job-title {
+    color: #e83939;
+    font-weight: bold;
+  }
+  a:link{
+    text-decoration: none;
+  }
+
+  a:link,
+  a:visited {
+    color: #fb6542;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+.contact{
+    border:5px solid #84abe6;
+    padding-left: 5px;
+}
